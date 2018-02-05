@@ -2,6 +2,12 @@
 
 namespace Challenge;
 
+/**
+ * @param $string
+ *
+ * @return string
+ * @throws \Exception
+ */
 function getThreeUpperletters($string) : string {
     if (empty($string)) {
         throw new \Exception('String is too low to be handled');

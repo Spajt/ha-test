@@ -2,7 +2,10 @@
     "name": "spajt/hybris-test",
     "license": "Private",
     "autoload": {
-        "files": ["functions/FirstLetter.php"]
+        "files": [
+            "functions/FirstLetter.php",
+            "functions/WordSort.php"
+        ]
     },
     "authors": [
         {

@@ -1,0 +1,17 @@
+{
+    "name": "spajt/hybris-test",
+    "license": "Private",
+    "autoload": {
+        "files": ["functions/FirstLetter.php"]
+    },
+    "authors": [
+        {
+            "name": "Oskar Sajdak",
+            "email": "oskar.sajdak@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}

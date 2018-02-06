@@ -4,6 +4,7 @@
     "autoload": {
         "files": [
             "functions/FirstLetter.php",
+            "functions/FindUnique.php",
             "functions/WordSort.php"
         ]
     },
